@@ -2,3 +2,4 @@ first
 second
 third
 master:first
+master:second
