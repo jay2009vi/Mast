@@ -1,6 +1,8 @@
 first
 second
-third
+third.
 master:first
 Tfirst
 tsecond
+master:second
+
